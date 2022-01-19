@@ -6,9 +6,9 @@ O notebook foi totalmente desenvolvido no 'Google colaboratory' em linguagem '.P
 
 Está dividido em:
 
-*introdução ao problema
-*Importação das bibliotecas e base de dados
-*Limpeza de dados
-*EDA
-*Modelagem
-*Métricas e conclusão
+* introdução ao problema
+* Importação das bibliotecas e base de dados
+* Limpeza de dados
+* EDA
+* Modelagem
+* Métricas e conclusão
